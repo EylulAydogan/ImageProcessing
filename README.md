@@ -1,5 +1,5 @@
 # ImageProcessing
-Görüntü İşleme dersi götüntü tersine alınması ödevi
+Görüntü İşleme dersi görüntü tersine alınması ödevi
 https://github.com/EylulAydogan/InvertingImage
 
 Görüntü İşleme dersi ekmek makale sunumu
