@@ -12,3 +12,6 @@ Görüntü İşleme dersi kiraz makale sunumu
 
 Görüntü İşleme dersi retina makale sunumu
 [Retina.pptx](https://github.com/EylulAydogan/ImageProcessing/files/10237143/Retina.pptx)
+
+Görüntü İşleme dersi fındık makale sunumu
+[fındık.pptx](https://github.com/EylulAydogan/ImageProcessing/files/10238666/findik.pptx)
